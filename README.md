@@ -1,2 +1,2 @@
-# Bitergia Analytics ODFE
- Bitergia Analytics Docker image for Open Distro 
+# Bitergia Analytics ODFE Elasticsearch
+ Bitergia Analytics Docker image for Open Distro Elasticsearch
