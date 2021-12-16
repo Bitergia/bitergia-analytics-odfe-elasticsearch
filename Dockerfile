@@ -1,4 +1,4 @@
-FROM amazon/opendistro-for-elasticsearch:1.12.0
+FROM amazon/opendistro-for-elasticsearch:1.13.3
 
 WORKDIR /usr/share/elasticsearch
 
